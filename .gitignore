@@ -21,5 +21,3 @@
 # I don't want to show my secrets
 /config/secrets.yml 
 
-# I don't want to show my spring.rb
-/config/spring.rb
